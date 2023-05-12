@@ -6,7 +6,7 @@
   "private": true,
   "devDependencies": {
     "@nestjs/schematics": "^9.1.0",
-    "@nestjs/testing": "^9.1.1",
+    "@nestjs/testing": "^9.4.0",
     "@nrwl/nest": "^16.1.1",
     "@nrwl/react": "^16.1.1",
     "@nx/cypress": "16.1.1",
@@ -56,9 +56,9 @@
     "vitest": "^0.31.0"
   },
   "dependencies": {
-    "@nestjs/common": "^9.1.1",
-    "@nestjs/core": "^9.1.1",
-    "@nestjs/platform-express": "^9.1.1",
+    "@nestjs/common": "^9.4.0",
+    "@nestjs/core": "^9.4.0",
+    "@nestjs/platform-express": "^9.4.0",
     "@swc/helpers": "~0.5.0",
     "axios": "^1.0.0",
     "react": "18.2.0",
