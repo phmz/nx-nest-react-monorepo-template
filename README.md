@@ -45,8 +45,13 @@ This is a monorepo template for a project with an API built using Nest.js and a 
    ```bash
    nx generate @nrwl/js:library shared-types
    ```
-   
-Choose tsc as the library builder when prompted.
+    Choose tsc as the library builder when prompted.
+
+8. Create a custom eslint rule
+
+   ```bash
+   nx g @nx/linter:workspace-rule custom-rule
+   ```
 
 ## Running the Projects
 
